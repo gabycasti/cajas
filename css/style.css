@@ -1,0 +1,57 @@
+.cuadro_1 {
+	width: 300px;
+	height: 300px;
+	background: red;
+	position:relative;
+	margin-left: 10px;
+	
+}
+
+.cuadro_2 {
+	width: 150px;
+	height: 150px;
+	top:70px;
+	left: 70px;
+	background: #731072;
+	position: absolute;
+}
+
+.cuadro_3 {
+	width: 75px;
+	height: 75px;
+	top:70px;
+	left: 70px;
+	background: yellow;
+	position: absolute;
+}
+
+.segundo_1 {
+	width: 300px;
+	height: 300px;
+	background: blue;
+	position:relative;
+	margin-left: 10px;
+	top: 60px;
+	
+}
+
+.segundo_2 {
+	width: 150px;
+	height: 150px;
+	top:70px;
+	left: 70px;
+	background: green;
+	position: absolute;
+}
+
+.segundo_3 {
+	width: 70px;
+	height: 70px;
+	top:0px;
+	left:0px;
+	background: black;
+	position: absolute;
+}
+
+
+
